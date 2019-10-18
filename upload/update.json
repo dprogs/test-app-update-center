@@ -1,5 +1,5 @@
 {
-  "url":"https://raw.githubusercontent.com/dprogs/test-app-update-center/develop/upload/TestApp_1.1.apk",
+  "url":"https://github.com/dprogs/test-app-update-center/blob/master/upload/TestApp_1.1.apk",
   "versionCode":44,
   "updateMessage":"1. support Android 8.0\n2. support Android 9.0\n3. last update"
 }
