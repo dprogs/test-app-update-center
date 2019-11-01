@@ -1,7 +1,7 @@
 {
-    "url": "https://github.com/dprogs/test-app-update-center/blob/master/upload/TestApp_1.60.apk",
-    "versionCode": 60,
+    "url": "https://github.com/dprogs/test-app-update-center/raw/master/upload/TestApp_1.70.apk",
+    "versionCode": 70,
     "updateMessage": "New version of TestApp with new incredible features",
-    "Date": "01/11/2019 15:02:10",
+    "Date": "01/11/2019 18:48:44",
     "BuildType": "debug"
 }
